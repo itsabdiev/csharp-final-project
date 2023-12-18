@@ -9,7 +9,7 @@ A basic Windows Form application for taking and managing notes, using a PostgreS
 - Store notes data in a PostgreSQL database.
 
 ## Docs
-![Click](https://docs.google.com/document/d/1ChbJh7c9B3luRJKu_hNRrfstt5x1uWgU-NkNbDwUdfw/edit?usp=sharing)
+[Link](https://docs.google.com/document/d/1ChbJh7c9B3luRJKu_hNRrfstt5x1uWgU-NkNbDwUdfw/edit?usp=sharing)
 
 ## Screenshots
 
