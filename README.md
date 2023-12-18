@@ -8,6 +8,9 @@ A basic Windows Form application for taking and managing notes, using a PostgreS
 - Add and delete notes with a title, body, and date.
 - Store notes data in a PostgreSQL database.
 
+## Docs
+![Click](https://docs.google.com/document/d/1ChbJh7c9B3luRJKu_hNRrfstt5x1uWgU-NkNbDwUdfw/edit?usp=sharing)
+
 ## Screenshots
 
 ![Screenshot 1](https://res.cloudinary.com/benomad/image/upload/v1702111287/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA_%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2023-12-09_143808_wfldyx.png)
